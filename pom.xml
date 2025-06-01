@@ -6,7 +6,7 @@
 
     <groupId>io.github.winter-boot</groupId>
     <artifactId>winter-boot-test</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <name>winter-boot-test</name>
     <description>Test</description>
     <url>https://github.com/winter-boot/winter-boot-test</url>
